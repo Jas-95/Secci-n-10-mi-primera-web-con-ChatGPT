@@ -1,0 +1,138 @@
+/* Estilos generales */
+body {
+  font-family: 'Quicksand', sans-serif;
+  margin: 50px;
+  padding: 0;
+  background-color: #f4ede8; /* Color de fondo tierra claro */
+  text-align: center;
+}
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 100px;
+  text-align: center;
+}
+
+h1, h2, h3 {
+  color: #af7f63; /* Color de enlace marrón medio */
+  text-decoration: none;
+  text-align: center;
+}
+
+a:hover {
+  color: #8c5f48; /* Color de enlace marrón claro en el estado de hover */
+}
+
+h1, h2, h3, p {
+  text-align: justify; /* Alineación justificada para los encabezados y párrafos */
+}
+
+/* Estilos de la sección de redes sociales */
+#redes-sociales {
+  background-color: #d5c8b8; /* Color de fondo tierra claro */
+  padding: 20px;
+  text-align: center;
+}
+
+#redes-sociales h2 {
+  color: #6b4d3d; /* Color de texto marrón oscuro */
+  margin-bottom: 10px;
+}
+
+.social-icons a {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 20px;
+  color: #af7f63; /* Color de iconos marrón medio */
+}
+
+/* Estilos del formulario de contacto */
+form {
+  display: flex;
+  flex-direction: column;
+  margin-top: 20px;
+}
+
+input[type="text"],
+input[type="email"],
+textarea {
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+button[type="submit"] {
+  padding: 10px 20px;
+  background-color: #6b4d3d; /* Color de botón marrón oscuro */
+  color: #ffffff; /* Color de texto blanco */
+  border: none;
+  cursor: pointer;
+}
+
+button[type="submit"]:hover {
+  background-color: #8c5f48; /* Color de botón marrón claro en el estado de hover */
+}
+
+/* Estilos del footer */
+footer {
+  background-color: #6b4d3d; /* Color de fondo marrón oscuro */
+  color: #ffffff; /* Color de texto blanco */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Estilos para el diseño de cuadrícula */
+.grid-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+/* Estilos para cada elemento de la cuadrícula */
+.grid-item {
+  flex-basis: calc(33.33% - 20px);
+  margin-bottom: 20px;
+}
+
+/* Estilos de los botones */
+.btn {
+  display: inline-block;
+  padding: 10px 20px;
+  background-color: #af7f63; /* Color de botón marrón medio */
+  color: #ffffff; /* Color de texto blanco */
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.btn:hover {
+  background-color: #8c5f48; /* Color de botón marrón claro en el estado de hover */
+}
+
+
+/* Centrar contenido del encabezado */
+header {
+    text-align: center;
+  }
+  
+  /* Centrar contenido de la sección de productos */
+  #productos {
+    text-align: center;
+    
+  }
+  
+  /* Centrar contenido de la sección "Sobre Nosotros" */
+  #sobre-nosotros {
+    text-align: center;
+  }
+  
+  /* Centrar contenido de la sección de contacto */
+  #contacto {
+    text-align: center;
+  }
+  
+  /* Centrar contenido del footer */
+  footer {
+    text-align: center;
+  }
+  

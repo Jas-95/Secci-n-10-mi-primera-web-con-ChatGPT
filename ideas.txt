@@ -1,0 +1,17 @@
+- comunidad de viajeros
+- marketplace
+- intercambio de habilidades
+- crowfounding
+- informacion turistica
+- intercambio de idiomas
+- mercado de artesanias
+
+
+
+
+Mercado de artesanías: 
+Crea una plataforma en línea donde los artesanos puedan exhibir 
+y vender sus productos hechos a mano. Permite a los usuarios buscar por categorías, 
+realizar compras seguras y dejar comentarios y reseñas. También puedes incluir perfiles de artesanos, 
+destacando sus historias y técnicas de trabajo.
+
